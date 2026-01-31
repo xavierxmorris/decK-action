@@ -1,4 +1,4 @@
-FROM alpine:3.10
+FROM alpine:3.23.3
 
 COPY action/dist/index.js /index.js
 
